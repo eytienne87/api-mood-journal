@@ -1,0 +1,6 @@
+@api_mood_journal_HostAddress = http://localhost:5088
+
+GET {{api_mood_journal_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
